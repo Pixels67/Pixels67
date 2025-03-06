@@ -13,4 +13,5 @@
 <h4 align="left">Stats:</h4>
 
 ![Pixels67's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pixels67&theme=vue-dark&hide_border=true)
+
 ![Pixels67's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pixels67&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
