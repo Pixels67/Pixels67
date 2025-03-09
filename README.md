@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pixels</h1>
 <h3 align="center">A Unity and C++ (mostly game) developer.</h3>
 
-<h4 align="left">Contacts:</h4>
+<h4 align="left">Socials:</h4>
 <p align="left">
 <a href="https://www.youtube.com/@pixels.67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pixels.67" height="30" width="40" /></a>
 <a href="https://discord.gg/pixels671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pixels671" height="30" width="40" /></a>
