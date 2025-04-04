@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Pixels</h1>
-<h3 align="center">A Unity and C++ (mostly game) developer.</h3>
+<h>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Pixels&fontAlignY=40&animation=fadeIn&desc=Unity%20/%20C%2b%2b%20/%20Rust%20Game%20Developer&stroke=EEEEEE&strokeWidth=0&fontColor=EEEEEE&textBg=false&section=header" />
+</h>
 
 <h4 align="left">Socials:</h4>
 <p align="left">
