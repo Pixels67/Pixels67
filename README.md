@@ -1,6 +1,8 @@
-<div <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Pixels&fontAlignY=40&animation=fadeIn&desc=Unity%20/%20C%2b%2b%20/%20Rust%20Game%20Developer&stroke=EEEEEE&strokeWidth=0&fontColor=EEEEEE&textBg=false&section=header" />
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pixels67&style=flat" alt="pixels67" /></p>
 
 <h3 align="center">📫 Socials</h4>
 <p align="center">
