@@ -5,7 +5,7 @@
 <h3 align="center">📫 Socials</h4>
 <p align="center">
   <a href="https://www.youtube.com/@pixels671" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="https://www.youtube.com/@pixels671" height="40" width="40" /></a>
-  <a href="https://discord.gg/pixels671" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4494/4494737.png" alt="pixels671" height="40" width="40" /></a>
+  <a href="https://discord.com/users/1309611380101480648" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4494/4494737.png" alt="pixels671" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">🛠️ Languages and Tools</h4>
