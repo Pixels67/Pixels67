@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Pixels&fontAlignY=40&animation=fadeIn&desc=Unity%20/%20C%2b%2b%20/%20Rust%20Game%20Developer&stroke=EEEEEE&strokeWidth=0&fontColor=EEEEEE&textBg=false&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=random&text=Pixels&desc=Game%20Developer&descAlignY=60&descAlign=50&section=header&fontColor=FFFFFF" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pixels67&style=flat" alt="pixels67" /></p>
