@@ -1,3 +1,3 @@
 <div align="center">
-  <img width="600" height="540" alt="pixelfetch" src="https://github.com/user-attachments/assets/e58cfcf5-64bc-4acf-89c4-ae38849d88f8"/>
+  <img width="710" height="640" alt="pixelfetch" src="https://github.com/user-attachments/assets/c7d7db7c-e4f8-45e7-9b41-d0140c7ee29e" />
 </div>
